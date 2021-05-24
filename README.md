@@ -10,7 +10,8 @@ Huawei TF-I60 H1 (fusion series) unlock, Irancell TF-I60 H1 unlock, Irancell TF-
 	Huawei TF-I60 H1 (fusion series) unlock.z05
 	Huawei TF-I60 H1 (fusion series) unlock.zip
 
-2 - Extract them
+2 - Extract them.
+
 3 - follow the instructions in Help.pdf
 
 
